@@ -1,3 +1,5 @@
 ## Python Introduction Bescheibung lipCarp
 ### Authors
-Andrea TO
+Andrea TORGGLER
+## date 
+2019-06-14
