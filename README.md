@@ -1,3 +1,3 @@
-## Python Introduction Bescheibung
+## Python Introduction Bescheibung lipCarp
 ### Authors
-Andrea
+Andrea TO
